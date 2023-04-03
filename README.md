@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Hive Contact Book**
 
-- 🌱 I’m currently learning **Flutter Hive Package and Android Development**
+- 🌱 I’m currently learning **Flutter Bloc Feature and Android Development**
 
 - 📫 How to reach me **mkemalerylmz@gmail.com**
 
