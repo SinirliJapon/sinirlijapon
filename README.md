@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kemal</h1>
 <h3 align="center">A passionate flutter developer from Warsaw</h3>
 
-- 🔭 I’m currently working on **Hive Contact Book**
+- 🔭 I’m currently working on **Pokedex**
 
 - 🌱 I’m currently learning **Flutter Bloc Feature and Android Development**
 
