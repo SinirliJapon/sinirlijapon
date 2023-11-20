@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Score Zone](https://github.com/SinirliJapon/score_zone)
 
-- 🌱 I’m currently learning **Flutter Bloc Feature and Android Development**
+- 🌱 I’m currently learning **Provider**
 
 - 📫 How to reach me **mkemalerylmz@gmail.com**
 
