@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Kemal</h1>
 <h3 align="center">A passionate flutter developer from Warsaw</h3>
 
-- 🔭 I’m currently working on [Score Zone](https://github.com/SinirliJapon/score_zone) & [Galactic Scales](https://github.com/SinirliJapon/galactic_scales)
+- 🔭 I’m currently working on [Score Zone](https://github.com/SinirliJapon/score_zone)
 
 - 🌱 I’m currently learning **Provider**
 
