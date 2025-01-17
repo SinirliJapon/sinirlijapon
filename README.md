@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on [Score Zone](https://github.com/SinirliJapon/score_zone)
   
-🌱 I’m currently learning [Provider](https://pub.dev/packages/provider)
+🌱 I’m currently learning Native iOS Development
   
 📫 You can reach me from **mkemalerylmz@gmail.com**
 
