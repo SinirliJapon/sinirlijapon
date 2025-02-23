@@ -2,7 +2,7 @@
 
 🚀 I'm a passionate Flutter Developer from Warsaw
 
-🔭 I’m currently working on [Score Zone](https://github.com/SinirliJapon/score_zone)
+🔭 I’m currently working on [Skycast](https://github.com/SinirliJapon/skycast)
   
 🌱 I’m currently learning Native iOS Development
   
